@@ -39,6 +39,19 @@ skills and stay up-to-date with the latest technologies.
 
 ---
 
+<h3 align="left">My work</h3>
+<p>
+  I have worked on some great ideas, just give them a look once.
+  <ul style="font-size: 20px;">
+  <li>⚙️ Building <a href="https://github.com/me-loser/Eastore-Filecoin">Eastore</a> - EthforAll winning project</li>
+  <li>🏅<a href="https://github.com/me-loser/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
+  <li>🏆<a href="https://github.com/me-loser/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
+  <li>🚀<a href="https://github.com/ASME-IITR">ASME IITR</a> - Executive Member</li>
+</ul>
+</p>
+
+---
+
 <h3 align="left">Language and Platform Used </h3>
 
 <p align="left">
