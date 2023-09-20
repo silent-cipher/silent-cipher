@@ -43,7 +43,7 @@ skills and stay up-to-date with the latest technologies.
 <p>
   I have worked on some great ideas, just give them a look once.
   <ul style="font-size: 20px;">
-  <li>⚙️ Building <a href="https://github.com/me-loser/Eastore-Filecoin">Eastore</a> - EthforAll winning project</li>
+  <li>⚙️ Building <a href="https://github.com/me-loser/Eastore">Eastore</a> - EthforAll winning project</li>
   <li>🏅<a href="https://github.com/me-loser/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
   <li>🏆<a href="https://github.com/me-loser/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
   <li>🚀<a href="https://github.com/ASME-IITR">ASME IITR</a> - Executive Member</li>
@@ -189,13 +189,6 @@ skills and stay up-to-date with the latest technologies.
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=me-loser&show_icons=true&locale=en&theme=dark&background=000000"
-    alt="me-loser"
-  />
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=me-loser&theme=dark&background=000000"
     alt="me-loser"
   />
 </p>
