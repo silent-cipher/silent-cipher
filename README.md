@@ -46,6 +46,7 @@ skills and stay up-to-date with the latest technologies.
   <li>⚙️ Building <a href="https://github.com/me-loser/Eastore">Eastore</a> - EthforAll winning project</li>
   <li>🏅<a href="https://github.com/me-loser/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
   <li>🏆<a href="https://github.com/me-loser/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
+  <li>🚀<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
   <li>🚀<a href="https://github.com/ASME-IITR">ASME IITR</a> - Executive Member</li>
 </ul>
 </p>
@@ -173,24 +174,6 @@ skills and stay up-to-date with the latest technologies.
       height="40"
     />
   </a>
-</p>
-
----
-
-<h3 align="left">General</h3>
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=me-loser&show_icons=true&locale=en&layout=compact&theme=dark&background=000000"
-    alt="me-loser"
-  />
-</p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=me-loser&show_icons=true&locale=en&theme=dark&background=000000"
-    alt="me-loser"
-  />
 </p>
 
 ---
