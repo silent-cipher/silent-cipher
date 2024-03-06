@@ -3,9 +3,6 @@
 
 <h2>Puspendra Mahariya</h2>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=me-loser&label=Profile%20views&color=0e75b6&style=flat" alt="me-loser" />
-</p>
 
 <p>
 I'm a software developer with a passion for solving complex problems and
@@ -43,7 +40,7 @@ skills and stay up-to-date with the latest technologies.
 <p>
   I have worked on some great ideas, just give them a look once.
   <ul style="font-size: 20px;">
-  <li>⚙️ Building <a href="https://github.com/me-loser/Eastore">Eastore</a> - EthforAll winning project</li>
+  <li>⚙️ Building <a href="https://eastore.vercel.app">Eastore</a> - EthforAll winning project</li>
   <li>🏅<a href="https://github.com/me-loser/DatAgentDAO">DatAgent DAO</a> - HackFS winning project</li>
   <li>🏆<a href="https://github.com/me-loser/NFTs-for-All">NFTs for All</a> - Blockathon winning project - Chanakya Scholarship grantee</li>
   <li>🚀<a href="https://github.com/BlocSoc-iitr">BlocSoc IITR</a> - Executive Member</li>
